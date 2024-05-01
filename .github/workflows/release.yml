@@ -103,5 +103,5 @@ jobs:
         # cesta k souboru
         asset_path: ./main.pdf
         # název v releasu
-        asset_name: FEKTtex.pdf
+        asset_name: MPC-SIN.pdf
         asset_content_type: application/pdf
